@@ -1,0 +1,1 @@
+function captura_curso($obj);
